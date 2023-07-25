@@ -1,0 +1,16 @@
+.mainCont {
+  /* border: 1px solid red; */
+  display: flex;
+}
+.sideBar {
+  border: 2px solid rgb(209, 209, 212);
+  width: 20%;
+  height: 87vh;
+  background-color: rgb(247, 247, 247);
+}
+.mailBox {
+  /* border: 1px solid red; */
+  width: 80%;
+  height: 87vh;
+  color: rgb(107, 107, 234);
+}

@@ -1,0 +1,22 @@
+.wrap {
+  width: 100%;
+}
+
+.searchButton {
+  width: 80px;
+  height: 40px;
+  border: none;
+  background: #6840f9;
+  /* text-align: center; */
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+/* //////////////////// */
+
+.mailBox {
+  border-top: 1px solid rgb(231, 227, 227);
+  height: 80vh;
+  margin-top: 20px;
+}

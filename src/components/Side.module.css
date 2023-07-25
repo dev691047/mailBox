@@ -1,0 +1,27 @@
+.btn {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: rgb(233, 232, 232);
+  color: black;
+  font-size: 20px;
+  letter-spacing: 3px;
+  /* border-radius: 5px; */
+  font-size: 400;
+  padding-left: 10px;
+  margin: 5px 0;
+}
+.div {
+  border-radius: 10px;
+  /* height: 400px; */
+  width: 80%;
+  border: none;
+  margin: auto;
+  box-shadow: 2px 0 10px rgb(234, 234, 234);
+  text-align: left;
+  /* padding: 8px; */
+}
+.btn:hover {
+  background-color: rgb(116, 116, 248);
+  width: 102%;
+}
