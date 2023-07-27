@@ -88,7 +88,7 @@ const ComposeMail = (props) => {
         <button onClick={hideEditor} className={classes.cancelbtn}>
           X
         </button>
-        <div style={{ height: "400px" }}>
+        <div style={{ height: "280px" }}>
           <Editor
             editorState={editorState}
             toolbarClassName="toolbarClassName"

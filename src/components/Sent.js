@@ -7,7 +7,7 @@ const Sent = () => {
 
   return (
     <>
-      <SearchBtn />
+      {/* <SearchBtn /> */}
       <div
         style={{
           width: "98%",

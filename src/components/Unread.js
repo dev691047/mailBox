@@ -8,7 +8,7 @@ const Unread = () => {
 
   return (
     <>
-      <SearchBtn />
+      {/* <SearchBtn /> */}
       <div>
         <div
           style={{

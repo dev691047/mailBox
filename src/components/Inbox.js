@@ -7,7 +7,7 @@ const Inbox = () => {
 
   return (
     <>
-      <SearchBtn />
+      {/* <SearchBtn /> */}
       <div
         style={{
           width: "98%",
